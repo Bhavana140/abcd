@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 datgeuhkjehfekjhefkhfelifvikgyfdtydsr
+=======
+datgeuhkjehfekjhefkhfelifviedffrfrrfrfrfrgfrgct
+>>>>>>> 878f0a383c6844c4eaad8e4cbb1358ea9f40739b
